@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Address": 1,
+    "Customer": 334
+  },
+  "models": {
+    "Address": {},
+    "Customer": {
+      "111": "{\"custid\":\"111\",\"custname\":\"Bob\",\"address\":[{\"cities\":[\"Toronto\",\"New York City\"]}]}",
+      "222": "{\"custid\":\"222\",\"custname\":\"Clara\",\"address\":[{\"cities\":[\"New York City\"]}]}",
+      "333": "{\"custid\":\"333\",\"custname\":\"Dan\",\"address\":[{\"cities\":[\"Raleigh\",\"Prague\"]}]}"
+    }
+  }
+}
